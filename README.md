@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Web3 Projects**
 
-- 💬 Ask me about **React,Javascript, PHP, HTML/CSS, Android**
+- 💬 Ask me about **React,Javascript, PHP, HTML/CSS, Android, C/C++, Java**
 
 - 📫 How to reach me **nisargaovhal@gmail.com**
 
