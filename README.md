@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/nisargao" target="blank"><img src="https://img.shields.io/twitter/follow/nisargao?logo=twitter&style=for-the-badge" alt="nisargao" /></a> </p>
 
-- 🔭 I’m currently working on **Expense Tracker**
+- 🔭 I’m currently working on **Manifest In You (Meditation App)**
 
 - 🌱 I’m currently learning **VueJS**
 
