@@ -4,7 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nisarg-27&label=Profile%20views&color=0e75b6&style=flat" alt="nisarg-27" /> </p>
 
-<p align="left"> <a href="https://twitter.com/nisargao" target="blank"><img src="https://img.shields.io/twitter/follow/nisargao?logo=twitter&style=for-the-badge" alt="nisargao" /></a> </p>
 
 - 🔭 I’m currently working on **Manifest In You (Meditation App)**
 
