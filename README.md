@@ -2,7 +2,7 @@
 # Hi 👋 I am Nisarga! 
 I am a software developer at [Amdocs](https://www.amdocs.com/), where I specialize in troubleshooting, process optimization, and system performance improvement, leveraging automation and collaboration to ensure quality and timely delivery..
 
-- 🌐 Visit my [LinkeIn](https://www.linkedin.com/in/nisarga-ovhal/) for more information and to get in touch.
+- 🌐 Visit my [LinkedIn](https://www.linkedin.com/in/nisarga-ovhal/) for more information and to get in touch.
 - ✍️ Follow me on [X]([https://pr2tik1.medium.com/](https://x.com/NisargaO)) for more written content.
 
 ---
