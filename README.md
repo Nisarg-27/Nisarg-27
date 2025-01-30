@@ -12,7 +12,7 @@ I am a software developer at [Amdocs](https://www.amdocs.com/), where I speciali
  
   <br>
   <br>
-  <a href="https://www.buymeacoffee.com/vinitshahdeo"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" height="50" width="210" alt="aveek.saha" /></a>
+  </a>
 </p>
 
 <br />
