@@ -16,22 +16,3 @@ I am a software developer at [Amdocs](https://www.amdocs.com/), where I speciali
 </p>
 
 <br />
-<a href="https://www.google.com/search?q=Nisarga+Ovhal">
-  <table align="left">
-      <tr>
-          <td>
-            😊&nbsp;&nbsp;Learn more about me!
-          </td>
-      </tr>
-  </table>
-</a>
-
-  <table align="right">
-      <tr>
-          <td>
-            🌐 &nbsp;&nbsp;Explore my blog!
-          </td>
-      </tr>
-  </table>
-</a>
----
